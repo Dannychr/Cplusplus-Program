@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  Generating code
+  All 178 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project3Christoffer.vcxproj -> C:\Users\Danny\Desktop\Project3Christoffer\Project3Christoffer\x64\Release\Project3Christoffer.exe
